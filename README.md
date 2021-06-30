@@ -19,4 +19,18 @@ create_button("blurple", "null", "i love bananas", "null", "but im alergic to it
 | URL            | ![URL_Style](https://cdn.discordapp.com/attachments/846455339419172874/848290582706782308/Button_Green4.png)      |
 
 <h6>*to prevent issues set values with blank to null</h6>
+
+# Issues
+You have to install this module:
+``npm i discord-buttons``
+And put 
+```js
+const disbut = require('discord-buttons');
+disbut(client);
+```
+In your code otherwise it wouldn't work
+
+**If you are still having issues with something, feel free to open issue I would try to help you!**
+
+
 </center>
