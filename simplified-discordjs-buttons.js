@@ -98,5 +98,5 @@ function create_button(style, url, label, disabled, message) {
   
   }
   
-  // Easteregg for June: No easteregg :<
+  // Easteregg for July: No easteregg :<
  
