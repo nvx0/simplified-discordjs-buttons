@@ -1,12 +1,18 @@
 <center><br>
 <img src="https://media.discordapp.net/attachments/853667470996013086/859884765871734854/Untitled.png?width=720&height=217">
 
-# simplified-discordjs-buttons
+# simplified-discordjs-buttons 
+Version: r3.5
 A function for javascript that can help you implement buttons in your Discord.JS bot
 
 # Example
+For non-embed message:
 ```js
 create_button("blurple", "null", "i love bananas", "null", "but im alergic to it");
+``` 
+For already existant and defined messages:
+```js
+create_button_for_existant_message("red", "null", "Beop Peob?", "null", "myEmbed")
 ```
 
 # Colors and other stuff
