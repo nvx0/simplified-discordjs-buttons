@@ -3,7 +3,10 @@
 
 # simplified-discordjs-buttons 
 Version: r3.5
+  <br>
 A function for javascript that can help you implement buttons in your Discord.JS bot
+<br>
+Last update: Fixed errors when you didn't input requested data.
 
 # Example
 For non-embed message:
